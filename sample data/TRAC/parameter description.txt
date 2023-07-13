@@ -1,0 +1,3 @@
+Total gap probability: 0.471825;   Solar zenith angle: 29.23;
+Needle-to-shoot area ratio: 1; Woody-to-total area ratio: unmeasured;
+Mean leaf radius (unit: pixel) : 5; 
